@@ -18,3 +18,10 @@ This project is a language model training pipeline for legal text analysis.
    python -m venv venv
    source venv/bin/activate  # For Linux/Mac
    venv\Scripts\activate     # For Windows
+
+# Installing Dependencies
+
+To install the required dependencies for this project, run the following command:
+
+```bash
+pip install -r requirements.txt
